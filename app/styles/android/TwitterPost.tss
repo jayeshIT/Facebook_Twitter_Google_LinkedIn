@@ -1,0 +1,45 @@
+
+".TwitterPost":{
+   	backgroundColor : 'white',
+   	orientationModes : [Ti.UI.PORTRAIT],
+  	fullscreen : true,
+  	exitOnClose : false,
+  	navBarHidden : true
+},
+"#lblviewAddpost":
+{
+	text : "Post Twitter"
+},
+".textshare":
+{
+	left : 0,
+	right : 60,
+	height : 150,
+	left : 10,
+	top : 120,
+	color : 'black',
+	hintText : 'Please enter Text to share'
+},
+".textlengthlabel":
+{
+	width : 40,
+	height : 60,
+	right : 20,
+	top : 120,
+	color : 'black',
+	font:
+	{
+		fontSize : 20,
+		fontWeight : 'bold'
+	}
+},
+".poststatustt":
+{
+	top : 300,
+	title : 'Post Status'
+},
+".postphotott":
+{
+	top : 380,
+	title : 'Post photo'
+}

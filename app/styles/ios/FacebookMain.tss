@@ -1,0 +1,10 @@
+
+".FacebookMain":{
+  	backgroundColor : 'white',
+  	translucent : false,
+  	top : Alloy.Globals.Top
+},
+"#lblviewAddpost":
+{
+	text : "Facebook"
+}

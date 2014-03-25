@@ -1,0 +1,24 @@
+
+".LinkedinFriends":{
+  	backgroundColor : 'white',
+  	orientationModes : [Ti.UI.PORTRAIT],
+  	statusBarHidden : true,
+  	fullscreen : true,
+  	exitOnClose : false,
+  	navBarHidden : true
+},
+"#lblviewAddpost":
+{
+	text : "Linked In Friends",
+},
+"#table1":
+{
+	filterAttribute : 'title',	
+	backgroundColor : "transparent",
+	separatorColor : 'black',
+	separatorStyle : 1,
+	top : 70,
+	left : 0,
+	bottom : 0,
+	right : 0	
+}

@@ -1,0 +1,10 @@
+
+".LinkedinMain":{
+  	backgroundColor : 'white',
+  	translucent : false,
+  	top : Alloy.Globals.Top
+},
+"#lblviewAddpost":
+{
+	text : "Linked In"
+}

@@ -1,0 +1,85 @@
+
+
+//--------- Android Common Properties---------------
+//                                                //
+//												  //	
+//---------Android Common Properties----------------
+".viewAddPost[platform=android]":
+{
+	top : 0,
+	left : 0,
+	right :0,
+	height : 70,
+    backgroundColor : "black"	
+},
+".backbutton[platform=android]":
+{
+	left : 8,
+	height : 50,
+	width : 85,
+	backgroundImage : "/back.png"
+},
+".lblviewAddpost[platform=android]":
+{
+	left : 0,
+	right : 0,
+	font :
+	{
+		fontSize : 20,
+		fontWeight : "bold"
+	},
+	color : "white",
+	textAlign : "center"
+},
+".tablebview[platform=android]":
+{
+	scrollable : false,
+	backgroundColor : "transparent",
+	top : 70,
+	left : 0,
+	bottom : 0,
+	right : 0	
+},
+//--------- iPhone Common Properties---------------
+//                                                //
+//												  //	
+//---------iPhone Common Properties----------------
+".viewAddPost[platform=ios]":
+{
+	top : 0,
+	left : 0,
+	right :0,
+	height : 44,
+    backgroundColor : "black"	
+},
+".lblviewAddpost[platform=ios]":
+{
+	left : 0,
+	right : 0,
+	font :
+	{
+		fontSize : 20,
+		fontWeight : "bold"
+	},
+	color : "white",
+	textAlign : "center"
+},
+".backbutton[platform=ios]":
+{
+	left : 8,
+	height : 29,
+	width : 49,
+	backgroundImage : "/back.png"
+}
+".tablebview[platform=ios]":
+{	
+	scrollable : false,
+	backgroundColor : "transparent",
+	top : 45,
+	left : 0,
+	separatorInsets:
+	{
+		left : 0
+	},
+	right : 0	
+}

@@ -1,0 +1,71 @@
+"#container":{
+	backgroundColor: "white",
+	top : Alloy.Globals.Top
+},
+".facebook":{
+	top: 10 ,
+	left: 10,
+	height: 60,
+	width: 60,
+	backgroundImage: '/facebook.png'
+},
+".twitter":
+	{
+	top: 80,
+	left: 10,
+	height: 60,
+	width: 60,
+	backgroundImage: '/twitter.png'
+},
+".googleplus":
+	{
+	top: 150,
+	left: 10,
+	height: 60,
+	width: 60,
+	backgroundImage: '/googleplus.png'
+},
+".linkedin":
+	{
+	top: 220,
+	left: 10,
+	height: 60,
+	width: 60,
+	backgroundImage: '/linkedin.png'
+},
+".facebook_logout": {
+	top: 10 ,
+	right: 10,
+	height: 30,
+	width: 150,
+	visible: false,
+	title: 'Facebook logout'
+},
+".twitter_logout":
+	{
+	top: 80,
+	right: 10,
+	height: 30,
+	width: 150,
+	visible: false,
+	title: 'Twitter logout'
+},
+".googleplus_logout":
+	{
+	top: 150,
+	right: 10,
+	height: 30,
+	width: 150,
+	visible: false,
+	title: 'Google+ logout'
+},
+".linkedin_logout":
+	{
+	top: 220,
+	right: 10,
+	height: 30,
+	width: 150,
+	visible: false,
+	title: 'LinkedIn logout'
+}
+

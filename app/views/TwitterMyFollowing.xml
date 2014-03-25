@@ -1,0 +1,11 @@
+<Alloy>
+	<Window class="TwitterMyFollowing" id='TwitterMyFollowing'>
+		<View class="viewAddPost" id="viewAddPost">
+			<Label class="lblviewAddpost" id="lblviewAddpost"/>
+			<Button class='backbutton' id='backbutton'>
+			<Button class='morebutton' id='morebutton'>
+		</View>	
+		<TableView id='tableFriends' class='tableFriends'>
+		</TableView>
+	</Window>
+</Alloy>

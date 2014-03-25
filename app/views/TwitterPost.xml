@@ -1,0 +1,19 @@
+<Alloy>
+	<Window class="TwitterPost" id="TwitterPost">
+		<View class="viewAddPost" id="viewAddPost">
+			<Label class="lblviewAddpost" id="lblviewAddpost"/>
+			<Button class='backbutton' id='backbutton' >
+		</View>
+		<!-- <Label class="twitterlbl" id="twitterlbl"/>
+		<Label class="fblbl" id="fblbl"/> -->
+		<TextArea class="textshare" id="textshare"/>
+		<Label class="textlengthlabel" id="textlengthlabel"/>
+		
+		<!-- <Button class="poststatus" id="poststatus"/>
+		<Button class="postphoto" id="postphoto"/>
+		<Button class="postdiaglog" id="postdiaglog"/> -->
+		
+		<Button  class="poststatustt" id="poststatustt"/>
+		<Button class="postphotott" id="postphotott"/>	
+	</Window>
+</Alloy>

@@ -1,0 +1,41 @@
+"#FacebookPost":{
+  backgroundColor : 'white',
+  top : Alloy.Globals.Top 
+},
+"#lblviewAddpost":
+{
+	text : "Post Facebook",
+},
+".textshare":
+{
+	width : 250,
+	height : 150,
+	left : 10,
+	top : 50,
+	borderColor : 'black',
+	color : 'black',
+	hintText : 'Please enter Text to share'
+},
+".textlengthlabel":
+{
+	width : 30,
+	height : 30,
+	right : 20,
+	top : 70,
+	color : 'black'
+},
+".poststatus":
+{
+	top : 220,
+	title : 'Post Status'
+},
+".postphoto":
+{
+	top : 260,
+	title : 'Post photo'
+},
+".postdiaglog":
+{
+	top : 300,
+	title : 'Post using dialog'
+}

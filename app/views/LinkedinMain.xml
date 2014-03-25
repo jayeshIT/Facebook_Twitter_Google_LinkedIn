@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="LinkedinMain" id='LinkedinMain'>
+		<View class="viewAddPost" id="viewAddPost">
+			<Label class="lblviewAddpost" id="lblviewAddpost"/>
+			<Button class='backbutton' id='backbutton' >
+		</View>	
+		<TableView id='tablebview' class='tablebview'>
+		</TableView>
+	</Window>
+</Alloy>

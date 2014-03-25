@@ -1,0 +1,68 @@
+".container":{
+	backgroundColor: "white",
+	orientationModes : [Ti.UI.PORTRAIT],
+	exitonClose : true
+},
+".facebook": {
+	top: 10 ,
+	left: 10,
+	height: 90,
+	width: 90,
+	backgroundImage: '/facebook.png'
+},
+".twitter":
+	{
+	top: 120,
+	left: 10,
+	height: 90,
+	width: 90,
+	backgroundImage: '/twitter.png'
+},
+".googleplus":
+	{
+	top: 230,
+	left: 10,
+	height: 90,
+	width: 90,
+	backgroundImage: '/googleplus.png'
+},
+".linkedin":
+	{
+	top: 340,
+	left: 10,
+	height: 90,
+	width: 90,
+	backgroundImage: '/linkedin.png'
+},
+
+
+
+
+
+".facebook_logout": {
+	top: 10 ,
+	right: 10,
+	visible: false,
+	title: 'Facebook logout'
+},
+".twitter_logout":
+	{
+	top: 120,
+	right: 10,
+	visible: false,
+	title: 'Twitter logout'
+},
+".googleplus_logout":
+	{
+	top: 230,
+	right: 10,
+	visible: false,
+	title: 'Google+ logout'
+},
+".linkedin_logout":
+	{
+	top: 340,
+	right: 10,
+	visible: false,
+	title: 'LinkedIn logout'
+}

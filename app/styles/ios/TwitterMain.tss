@@ -1,0 +1,16 @@
+
+".TwitterMain":{
+  	backgroundColor : 'white',
+  	translucent : false,
+  	top : Alloy.Globals.Top
+},
+"#lblviewAddpost":
+{
+	text : "Twitter"
+},
+"#tablebview":
+{
+	separatorColor : 'black',
+	separatorStyle :1
+	
+}

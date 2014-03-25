@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="FacebookInviteFriends" id='FacebookInviteFriends'>
+		<View class="viewAddPost" id="viewAddPost">
+			<Label class="lblviewAddpost" id="lblviewAddpost"/>
+			<Button class='backbutton' id='backbutton' >
+		</View>	
+		<TableView id='table1' class='table1'>
+		</TableView>
+	</Window>
+</Alloy>

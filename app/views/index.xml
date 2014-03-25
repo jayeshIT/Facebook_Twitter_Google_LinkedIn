@@ -1,0 +1,14 @@
+<Alloy>
+	<Window class="container" id="container">
+		<!-- ------------login Buttins------------ -->
+		<Button class='facebook' id="facebook"/>
+		<Button class='twitter' id="twitter"/>
+		<Button class='googleplus' id="googleplus"/>
+		<Button class="linkedin" id="linkedin"/>
+		<!-- ------------logout Buttins------------ -->
+		<Button class='facebook_logout' id="facebook_logout"/>
+		<Button class='twitter_logout' id="twitter_logout"/>
+		<Button class='googleplus_logout' id="googleplus_logout"/>
+		<Button class="linkedin_logout" id="linkedin_logout"/>
+	</Window>
+</Alloy>

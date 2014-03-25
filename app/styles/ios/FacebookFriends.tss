@@ -1,0 +1,25 @@
+
+".FacebookFriends":{
+  	backgroundColor : 'white',
+  	top : Alloy.Globals.Top
+},
+"#lblviewAddpost":
+{
+text : "Facebook In Friends"
+},
+"#table1":
+{
+
+	filterAttribute : 'filter',
+	separatorColor : "transparent",
+	backgroundColor : "transparent",
+	separatorInsets : 
+	{
+		left : 0
+	},
+	separatorStyle : 1,
+	top : 44,
+	left : 0,
+	bottom : 0,
+	right : 0	
+}

@@ -1,0 +1,37 @@
+
+".TwitterMyFollowing":{
+  	backgroundColor : 'white',
+  	translucent : false,
+  	top : Alloy.Globals.Top
+},
+"#lblviewAddpost":
+{
+	text : "My Following"
+},
+
+"#tableFriends":
+{
+	filterAttribute : 'filter',
+	separatorColor : "black",
+	backgroundColor : "transparent",
+	separatorInsets : 
+	{
+		left : 0
+	},
+	separatorStyle : 1,
+	top : 44,
+	left : 0,
+	bottom : 0,
+	editable : true,
+	right : 0	
+},
+".morebutton":
+{
+	style : 0,
+	right : 10,
+	width : 55,
+	height : 30,
+	color : 'white',
+	backgroundColor : 'gray',
+	title : 'More'
+}

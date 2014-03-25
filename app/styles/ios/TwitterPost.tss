@@ -1,0 +1,37 @@
+
+".TwitterPost":{
+  backgroundColor : 'white',
+  top : Alloy.Globals.Top
+},
+".lblviewAddpost":
+{
+	text : "Post Twitter"
+},
+".textshare":
+{
+	width : 250,
+	height : 150,
+	left : 10,
+	top : 50,
+	color : 'black',
+	borderColor : 'black',
+	hintText : 'Please enter Text to share'
+},
+".textlengthlabel":
+{
+	width : 30,
+	height : 30,
+	right : 20,
+	top : 70,
+	color : 'black'
+},
+".poststatustt":
+{
+	top : 220,
+	title : 'Post Status'
+},
+".postphotott":
+{
+	top : 270,
+	title : 'Post photo'
+}

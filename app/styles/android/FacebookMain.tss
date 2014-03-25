@@ -1,0 +1,13 @@
+
+".FacebookMain":{
+  	backgroundColor : 'white',
+  	orientationModes : [Ti.UI.PORTRAIT],
+  	statusBarHidden : true,
+  	fullscreen : true,
+  	exitOnClose : false,
+  	navBarHidden : true
+},
+"#lblviewAddpost":
+{
+	text : "Facebook"
+}

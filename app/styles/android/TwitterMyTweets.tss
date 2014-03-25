@@ -1,0 +1,35 @@
+
+".TwitterMyTweets":{
+  	backgroundColor : 'white',
+  	orientationModes : [Ti.UI.PORTRAIT],
+  	statusBarHidden : true,
+  	fullscreen : true,
+  	exitOnClose : false,
+  	navBarHidden : true
+},
+"#lblviewAddpost":
+{
+	text : "My tweets"
+},
+"#tablebviewTweets":
+{
+		
+	filterAttribute : 'title',
+	separatorColor : "black",
+	backgroundColor : "transparent",
+	separatorStyle : 1,
+	top : 70,
+	left : 0,
+	bottom : 0,
+	right : 0
+},
+".morebutton":
+{
+	right : 10,
+	top : 15,
+	height : 50,
+	width : 100,
+	color : 'white',
+	backgroundColor : 'gray',
+	title : 'More'
+}
